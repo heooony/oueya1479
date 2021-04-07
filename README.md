@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there!%20👋&fontSize=90)
 ## Hi there 👋, my name is heonnnn
 ### I am front-end Generator's creator
 
@@ -12,4 +12,4 @@ Database : oracle, mybatis<br>
 
 - 🔭 I’m currently working on this page. 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
