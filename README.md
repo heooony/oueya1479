@@ -5,10 +5,10 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files.
 
-**Skills**
-Front-end : html, css, javascript, jquery, jsp&Servlet
-Back-end : Java, 
-Database : oracle
+**Skills**<br>
+Front-end : html, css, javascript, jquery, JSP&Servlet
+Back-end : Java, JDBC, spring boot, JPA
+Database : oracle, mybatis
 
 - 🔭 I’m currently working on this page. 
 
