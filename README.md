@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there!%20👋&fontSize=90fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there!%20👋&fontSize=70&fontAlignY=40)
 ## Hi there 👋, my name is heonnnn
 ### I am front-end Generator's creator
 
