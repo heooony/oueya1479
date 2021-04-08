@@ -43,6 +43,7 @@ Workplace :
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2A2152?style=flat-square&logo=eclipse&logoColor=white"/>
 </div><br>
 
 - 🔭 I’m currently working on this page. 
