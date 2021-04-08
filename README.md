@@ -30,6 +30,7 @@ Back-end :
 <img src="https://img.shields.io/badge/C++-00599C?=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-D22128?=flat-square&logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?=flat-square&logo=apache-tomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
 </div><br>
 
 Database :
