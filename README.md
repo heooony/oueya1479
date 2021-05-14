@@ -1,8 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there!%20👋&fontSize=70&fontAlignY=40)
 
-<script src="https://gist.github.com/oueya1479/ede673d717d08116b632b8b961ae5c2b.js"></script> 
-
 ## Hi there 👋, my name is heonnnn
 ### I am front-end Generator's creator
 
