@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there!%20👋&fontSize=70&fontAlignY=40)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpeterhyun1234)](https://hits.seeyoufarm.com) 
+<script src="https://gist.github.com/oueya1479/ede673d717d08116b632b8b961ae5c2b.js"></script> 
 
 ## Hi there 👋, my name is heonnnn
 ### I am front-end Generator's creator
