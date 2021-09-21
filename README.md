@@ -5,8 +5,11 @@
 ### I am front-end Generator's creator
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files.
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=oueya1479&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oueya1479&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 **Skills**<br>
 App :
 <div>
