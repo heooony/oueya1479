@@ -44,6 +44,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Gyeonggisien/Flutter-app?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Gyeonggisien/Flutter-app?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://oueya1479.notion.site/O-Hana-ab773773da83431e9cf8336173994c87"><b>ohana</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ohana?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ohana?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ohana?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ohana?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
