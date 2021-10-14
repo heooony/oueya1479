@@ -47,6 +47,10 @@
   </tbody>
 </table>
 
+<h3>My latest posts</h3>
+<ul>
+  <li><a href="https://github.com/oueya1479/algorithm-study"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> Algorithm study </b></a><br/><i>Use Java to study algorithms.</i></li>
+ 
 <h3>My Skill</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=oueya1479&show_icons=true&count_private=true&hide_border=false"/>
 
